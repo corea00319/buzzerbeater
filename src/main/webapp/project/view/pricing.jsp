@@ -48,7 +48,7 @@
                         <li class="list-group-item">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Vestibulum at eros</li>
-                        <li class="list-group-item"><a href="/web/project/view/#" class="btn btn-primary">Sign Up!</a></li>
+                        <li class="list-group-item"><a href="#" class="btn btn-primary">Sign Up!</a></li>
                     </ul>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                         <li class="list-group-item">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Vestibulum at eros</li>
-                        <li class="list-group-item"><a href="/web/project/view/#" class="btn btn-primary">Sign Up!</a></li>
+                        <li class="list-group-item"><a href="#" class="btn btn-primary">Sign Up!</a></li>
                     </ul>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                         <li class="list-group-item">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Vestibulum at eros</li>
-                        <li class="list-group-item"><a href="/web/project/view/#" class="btn btn-primary">Sign Up!</a></li>
+                        <li class="list-group-item"><a href="#" class="btn btn-primary">Sign Up!</a></li>
                     </ul>
                 </div>
             </div>

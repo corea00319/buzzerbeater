@@ -62,7 +62,7 @@
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="/web/project/view/#">name@example.com</a>
+                        <a href="#">name@example.com</a>
                     </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="/web/project/view/#">name@example.com</a>
+                        <a href="#">name@example.com</a>
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="/web/project/view/#">name@example.com</a>
+                        <a href="#">name@example.com</a>
                     </div>
                 </div>
             </div>

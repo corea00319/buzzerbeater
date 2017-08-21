@@ -77,7 +77,7 @@
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="/web/project/view/#" class="btn btn-primary">Learn More</a>
+                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="/web/project/view/#" class="btn btn-primary">Learn More</a>
+                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="/web/project/view/#" class="btn btn-primary">Learn More</a>
+                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -112,54 +112,54 @@
         <div class="row">
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="/web/project/view/#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-body">
-                        <h4 class="card-title"><a href="/web/project/view/#">Project One</a></h4>
+                        <h4 class="card-title"><a href="#">Project One</a></h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="/web/project/view/#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-body">
-                        <h4 class="card-title"><a href="/web/project/view/#">Project Two</a></h4>
+                        <h4 class="card-title"><a href="#">Project Two</a></h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="/web/project/view/#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-body">
-                        <h4 class="card-title"><a href="/web/project/view/#">Project Three</a></h4>
+                        <h4 class="card-title"><a href="#">Project Three</a></h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="/web/project/view/#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-body">
-                        <h4 class="card-title"><a href="/web/project/view/#">Project Four</a></h4>
+                        <h4 class="card-title"><a href="#">Project Four</a></h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="/web/project/view/#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-body">
-                        <h4 class="card-title"><a href="/web/project/view/#">Project Five</a></h4>
+                        <h4 class="card-title"><a href="#">Project Five</a></h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="/web/project/view/#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-body">
-                        <h4 class="card-title"><a href="/web/project/view/#">Project Six</a></h4>
+                        <h4 class="card-title"><a href="#">Project Six</a></h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
                     </div>
                 </div>
@@ -196,7 +196,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
             </div>
             <div class="col-md-4">
-                <a class="btn btn-lg btn-secondary btn-block" href="/web/project/view/#">Call to Action</a>
+                <a class="btn btn-lg btn-secondary btn-block" href="#">Call to Action</a>
             </div>
         </div>
 

@@ -26,7 +26,7 @@
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <h1 class="mt-4 mb-3">Post Title <small>by <a href="/web/project/view/#">Start Bootstrap</a></small></h1>
+        <h1 class="mt-4 mb-3">Post Title <small>by <a href="#">Start Bootstrap</a></small></h1>
 
         <ol class="breadcrumb">
             <li class="breadcrumb-item">
@@ -139,16 +139,16 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul class="list-unstyled mb-0">
-                                    <li><a href="/web/project/view/#">Web Design</a></li>
-                                    <li><a href="/web/project/view/#">HTML</a></li>
-                                    <li><a href="/web/project/view/#">Freebies</a></li>
+                                    <li><a href="#">Web Design</a></li>
+                                    <li><a href="#">HTML</a></li>
+                                    <li><a href="#">Freebies</a></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul class="list-unstyled mb-0">
-                                    <li><a href="/web/project/view/#">JavaScript</a></li>
-                                    <li><a href="/web/project/view/#">CSS</a></li>
-                                    <li><a href="/web/project/view/#">Tutorials</a></li>
+                                    <li><a href="#">JavaScript</a></li>
+                                    <li><a href="#">CSS</a></li>
+                                    <li><a href="#">Tutorials</a></li>
                                 </ul>
                             </div>
                         </div>
