@@ -33,7 +33,7 @@
                 <!-- Slide One - Set the background image for this slide in the line below -->
                 <div class="carousel-item active" style="background-image: url('http://placehold.it/1900x1080')">
                     <div class="carousel-caption d-none d-md-block">
-                        <h3>First ¿Â»∆¿Ã«¸∏∏ æ»µ !!!!!!!</h3>
+                        <h3>First ¿Â»∆¿Ã«¸∏∏ æ»µ ~~~</h3>
                         <p>This is a description for the first slide.</p>
                     </div>
                 </div>
