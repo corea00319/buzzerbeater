@@ -55,5 +55,4 @@
 		<servlet-name>default</servlet-name>
 		<url-pattern>*.tof</url-pattern>
 	</servlet-mapping>
-
 </web-app>
