@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: hak
+=======
+Built-By: mysti
+>>>>>>> branch 'master' of https://github.com/corea00319/buzzerbeater.git
 Build-Jdk: 1.8.0_144
 Created-By: Maven Integration for Eclipse
 
