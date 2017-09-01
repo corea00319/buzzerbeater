@@ -38,7 +38,7 @@ public class HomeController {
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
 		
 		String formattedDate = dateFormat.format(date);
-		//샘플입니다
+		//샘플입니다용
 		System.out.println(dao.selectTest());
 		model.addAttribute("serverTime", formattedDate );
 		return "home";
