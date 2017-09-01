@@ -15,8 +15,6 @@
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item"><a class="nav-link"
 				href="/web/project/view/about.jsp">팀정보</a></li>
-			<li class="nav-item"><a class="nav-link"
-				href="/web/project/view/services.jsp">경기장정보</a></li>
 			<li class="nav-item dropdown"><a
 				class="nav-link dropdown-toggle" href="#"
 				id="navbarDropdownPortfolio" data-toggle="dropdown"
@@ -28,6 +26,8 @@
 						class="dropdown-item" href="/web/project/view/portfolio-2-col.jsp">예약
 						확인</a>
 				</div></li>
+			<li class="nav-item"><a class="nav-link"
+				href="/web/project/view/services.jsp">경기장정보</a></li>
 			<li class="nav-item"><a class="nav-link"
 				href="/web/project/view/contact.jsp">상점</a></li>
 			<li class="nav-item"><a class="nav-link"
