@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration><!-- DB설정(Connection) -->
+
+	<!-- 샘플입니다 -->
+	<typeAliases>
+		<typeAlias type="ball.com.bean.TestBean" alias="test" />
+	</typeAliases>
+
+	<mappers>
+		<mapper resource="ball/com/dao/ball.xml" />
+	</mappers>
+
+</configuration>
+
+
+
+
+

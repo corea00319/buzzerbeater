@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 샘플입니다. -->
+<mapper namespace="testDao">
+	<select id="selectTest" resultType="test">
+	SELECT NO FROM A
+	</select>
+<!--  관련 sql문
+create table a(
+no number(5));
+
+select * from a;
+
+insert into a values(1);
+select no from a;
+
+commit;
+-->
+</mapper>
