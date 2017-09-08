@@ -26,7 +26,7 @@
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <h1 class="mt-4 mb-3">FAQ <small>Subheading</small></h1>
+        <h1 class="mt-4 mb-3">FAQ2222 <small>Subheading</small></h1>
 
         <ol class="breadcrumb">
             <li class="breadcrumb-item">
