@@ -26,7 +26,7 @@
 		<h3>회원 가입</h3>
 		<hr>
 
-		join form
+		<!-- join form -->
 		<form action="#">
 
 			<table>
@@ -49,7 +49,7 @@
 				</tr>
 			</table>
 
-			email
+			<!-- email -->
 			<div class="input-group">
 				<span class="input-group-addon"><i class="fa fa-id-badge"></i></span>
 				<input id="email" type="text" class="form-control" name="email"
@@ -65,7 +65,7 @@
 			</div>
 		</form>
 		<br>
-		join form end
+		<!-- join form end -->
 		<p>It can also be used on the right side of the input:</p>
 		<form>
 			<div class="input-group">
