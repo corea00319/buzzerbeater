@@ -36,8 +36,8 @@
 				href="/web/project/view/contact.jsp">마이페이지</a></li>
 			<li class="nav-item"><a class="nav-link"
 				href="/web/project/view/contact.jsp">로그인</a></li>
-				
-			<!-- 기존 네비게이션  -->	
+
+			<!-- 기존 네비게이션  -->
 			<!-- <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Portfolio

@@ -19,6 +19,7 @@ import ball.com.dao.TestDao;
 /**
  * Handles requests for the application home page.
  */
+
 @Controller
 public class HomeController {
 	//샘플입니다

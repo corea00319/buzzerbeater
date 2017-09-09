@@ -22,7 +22,6 @@
 <body>
 
 <jsp:include page="/project/include/nav.jsp"></jsp:include>
-<!-- 
 	<div class="container">
 		<h3>회원 가입</h3>
 		<hr>
@@ -82,8 +81,6 @@
 			</div>
 		</form>
 	</div>
-
- -->
 
 </body>
 </html>
