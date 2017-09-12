@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -20,8 +20,9 @@
 <body>
 
     <!-- Navigation -->
-    <jsp:include page="../include/nav.jsp"></jsp:include>
+    <jsp:include page="/project/include/nav.jsp"></jsp:include>
 
+	<!-- 전광판 -->
     <header>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -75,11 +76,11 @@
                     <h4 class="card-header">경기일정 & 오늘의 경기</h4>
                     <div class="card-body">
 						<ul class="nav nav-tabs" role="tablist">
-							<li class="active" role="presentation"><a href="#tab1" data-toggle="tab" aria-expanded="true">Home</a></li>
-							<li class="" role="presentation"><a href="#tab2" data-toggle="tab" aria-expanded="false">Profile</a></li>
+							<li class="active in"><a class="nav-link" href="#tab1" data-toggle="tab">경기일정</a></li>
+							<li><a class="nav-link" href="#tab2" data-toggle="tab">오늘의 경기</a></li>
 						</ul>
 						<div id="myTabContent" class="tab-content">
-							<div class="tab-pane active in" id="tab1">
+							<div class="tab-pane" id="tab1"><!-- div class에 active in 추가하면 화면에 바로 나옴.-->
 								<p>경기일정</p>
 							</div>
 							<div class="tab-pane" id="tab2">
@@ -138,10 +139,12 @@
                 <div class="card h-100">
                     <h4 class="card-header">상점</h4>
                     <div class="card-body">
+                    <div class="col-md-10">
                         <a href="">
-		                    <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+		                    <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/550x300" alt="">
 		                </a>
                         <p class="card-text">상품</p>
+                        </div>
                     </div>
                     <div class="card-footer">
                         <a href="#" class="btn btn-primary" style="float: right;">더보기</a>
@@ -156,22 +159,22 @@
                         <ul class="list-group">
 						  <li class="list-group-item mb-3" style="padding:0; border:0;">
 						    <a href="">
-						    	<img class="img-fluid" src="http://placehold.it/200x100">
+						    	<img class="img-fluid" src="http://placehold.it/250x100">
 						    </a>
 						  </li>
 						  <li class="list-group-item mb-3" style="padding:0; border:0;">
 						    <a href="">
-						    	<img class="img-fluid" src="http://placehold.it/200x100">
+						    	<img class="img-fluid" src="http://placehold.it/250x100">
 						    </a>
 						  </li>
 						  <li class="list-group-item mb-3" style="padding:0; border:0;">
 						    <a href="">
-						    	<img class="img-fluid" src="http://placehold.it/200x100">
+						    	<img class="img-fluid" src="http://placehold.it/250x100">
 						    </a>
 						  </li>
 						  <li class="list-group-item mb-3" style="padding:0; border:0;">
 						    <a href="">
-						    	<img class="img-fluid" src="http://placehold.it/200x100">
+						    	<img class="img-fluid" src="http://placehold.it/250x100">
 						    </a>
 						  </li>
 						</ul>
@@ -187,7 +190,7 @@
     <!-- /.container -->
 
     <!-- Footer -->
-	<jsp:include page="../include/footer.jsp"/>
+	<jsp:include page="/project/include/footer.jsp"/>
 
     <!-- Bootstrap core JavaScript -->
     <script src="/web/project/vendor/jquery/jquery.min.js"></script>
