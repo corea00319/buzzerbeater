@@ -44,7 +44,40 @@
                 </div>
         </div>
         <!-- /.row -->
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" style="width: 600px; position: relative;">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+       <li class="nav-item dropdown"><a
+				class="nav-link dropdown-toggle" href="#"
+				id="navbarDropdownPortfolio" data-toggle="dropdown"
+				aria-haspopup="true" aria-expanded="false"> 정렬기준 </a>
+				<div class="dropdown-menu dropdown-menu-right"
+					aria-labelledby="navbarDropdownPortfolio">
+					<a class="dropdown-item" href="/web/project/view/portfolio-1-col.jsp">창단일</a> 
+					<a class="dropdown-item" href="/web/project/view/portfolio-2-col.jsp">지역</a>
+					<a class="dropdown-item" href="/web/project/view/portfolio-2-col.jsp">팀원수</a>
+				</div></li>
+		<li class="nav-item dropdown"><a
+				class="nav-link dropdown-toggle" href="#"
+				id="navbarDropdownPortfolio" data-toggle="dropdown"
+				aria-haspopup="true" aria-expanded="false"> 정렬방법 </a>
+				<div class="dropdown-menu dropdown-menu-right"
+					aria-labelledby="navbarDropdownPortfolio">
+					<a class="dropdown-item" href="/web/project/view/portfolio-1-col.jsp">오름차순</a>
+					<a class="dropdown-item" href="/web/project/view/portfolio-2-col.jsp">내림차순</a>
+				</div></li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
     </div>
     <!-- /.container -->
 
