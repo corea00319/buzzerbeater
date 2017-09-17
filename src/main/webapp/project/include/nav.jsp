@@ -26,9 +26,9 @@
 						확인</a>
 				</div></li>
 			<li class="nav-item"><a class="nav-link"
-				href="/web/project/view/services.jsp">경기장정보</a></li>
+				href="/web/test.do">경기장정보</a></li>
 			<li class="nav-item"><a class="nav-link"
-				href="/web/project/view/contact.jsp">상점</a></li>
+				href="/web/main.do">상점</a></li>
 			<li class="nav-item"><a class="nav-link"
 				href="/web/project/view/contact.jsp">랭킹</a></li>
 			<li class="nav-item"><a class="nav-link"
