@@ -33,7 +33,6 @@
 		<beans:property name="order" value="0"></beans:property>
 	</beans:bean>
 	
-	
 	<!-- oracle설정 -->
 	<beans:bean id="ds" class="org.apache.commons.dbcp2.BasicDataSource">
 		<beans:property name="driverClassName" value="oracle.jdbc.OracleDriver"></beans:property>
@@ -53,5 +52,4 @@
 	</beans:bean>
 	
 	<context:component-scan base-package="ball.com.dao"/>
-	
 </beans:beans>
